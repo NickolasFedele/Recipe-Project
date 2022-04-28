@@ -1,0 +1,13 @@
+
+body {
+    background: rgba(255, 161, 106, 0.445);
+}
+strong{
+    text-align: center;
+    background: white;
+    padding: 5px;
+}
+    img {
+        padding-bottom: 2px;
+        margin: 0px;
+    }
