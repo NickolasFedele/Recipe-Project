@@ -1,13 +1,45 @@
 
 body {
-    background: rgba(255, 161, 106, 0.445);
+    background: #feffff;
+    color: rgba(207, 207, 207, 0.699);
+    padding: 0%;
+    margin: auto;
+    font-family: sans-serif,Verdana, Tahoma, sans-serif, 'Times New Roman', Times, serif;
+    
 }
-strong{
+h1{
+    text-align: 70px 70px 70px 70px;
+    background: rgb(35, 39, 41);
+    color: red
+    text-decoration-color: blue;
+    padding: 33px 15px 22px 20px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 2px 2px 2px 2px black;
+    font-style: 'Times New Roman';
+    font-weight: 100;
+    background-image: url(./Pics/Pic.jpg);
+}
+
+h4 {
     text-align: center;
-    background: white;
+    align-self: center;
     padding: 5px;
 }
-    img {
-        padding-bottom: 2px;
-        margin: 0px;
-    }
+.Image { 
+    max-width: 100%;
+    height: auto;
+    background-size: cover;
+}
+.egg { color: red;}
+.matza { color: white}
+.GFX {
+    color: white;
+}
+.Menu{   
+    text-align: left;
+    padding-left: 250px;
+    color: white;
+    margin: 0px 5px 5px 0px;
+    font-size: 20px;
+
+}
